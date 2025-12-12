@@ -1,0 +1,18 @@
+{
+  "version": {
+	"required": 9,
+	"latest": 9
+  },
+
+  "update_mode": "soft",
+
+  "message": {
+	"title": "Update Available",
+	"body": "You are playing an older version of the game.",
+	"patch_notes": [
+	  "UI improvements",
+	  "Better difficulty balance",
+	  "Bug fixes"
+	]
+  }
+}
