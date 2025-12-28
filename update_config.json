@@ -1,7 +1,7 @@
 {
   "version": {
-	"required": 12,
-	"latest": 12
+	"required": 13,
+	"latest": 13
   },
 
   "update_mode": "soft",
