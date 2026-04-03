@@ -1,7 +1,7 @@
 {
   "version": {
-	"required": 15,
-	"latest": 15
+	"required": 16,
+	"latest": 16
   },
 
   "update_mode": "soft",
@@ -11,8 +11,6 @@
 	"body": "You are playing an older version of the game.",
 	"patch_notes": [
 	  "UI improvements",
-	  "Better difficulty balance",
-	  "Bug fixes"
 	]
   }
 }
